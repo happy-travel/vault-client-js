@@ -5,7 +5,6 @@ const VaultClient = require('happytravel-vaultclient').VaultClient;
 const VaultOptions = require('happytravel-vaultclient').VaultOptions;
 
 
-async function init() {
 let baseUrl = process.env.HTDC_VAULT_ENDPOINT;
 let engine = 'secrets';
 let role = 'my-role';
