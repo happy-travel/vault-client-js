@@ -1,7 +1,7 @@
 {
-  "name": "happytravel-vaultclient",
+  "name": "@happytravel/vault-client",
   "version": "1.0.0",
-  "description": "",
+  "description": "Vault client for JS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,13 @@
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.0"
+  },
+  "homepage": "https://github.com/happy-travel/vault-client-js",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "repository ": {
+    "type" : "git",
+    "url": "ssh://git@github.com/happy-travel/vault-client-js.git"
   }
 }
