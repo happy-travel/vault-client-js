@@ -1,6 +1,6 @@
 {
-  "name": "@happytravel/vault-client",
-  "version": "1.0.0",
+  "name": "@happy-travel/vault-client-js",
+  "version": "1.0.1",
   "description": "Vault client for JS",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "repository ": {
     "type" : "git",
-    "url": "ssh://git@github.com/happy-travel/vault-client-js.git"
+    "url": "git@github.com:happy-travel/vault-client-js.git"
   }
 }
