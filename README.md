@@ -1,8 +1,8 @@
 # vault-client-js
 
 ```javascript
-const VaultClient = require('happy-travel/vault-client-js').VaultClient;
-const VaultOptions = require('happy-travel/vault-client-js').VaultOptions;
+const VaultClient = require('@happy-travel/vault-client-js').VaultClient;
+const VaultOptions = require('@happy-travel/vault-client-js').VaultOptions;
 
 
 let baseUrl = process.env.HTDC_VAULT_ENDPOINT;
