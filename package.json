@@ -9,7 +9,7 @@
   "author": "Kirill Taran",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "homepage": "https://github.com/happy-travel/vault-client-js",
   "publishConfig": {
