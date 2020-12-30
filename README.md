@@ -1,5 +1,9 @@
 # vault-client-js
 
+An implementation of Simple Secret Storage client for Hashicorp's Vault
+
+
+## Usage
 ```javascript
 const VaultClient = require('@happy-travel/vault-client-js').VaultClient;
 const VaultOptions = require('@happy-travel/vault-client-js').VaultOptions;
